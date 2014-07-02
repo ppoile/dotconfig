@@ -1,0 +1,15 @@
+[user]
+	email = andreas.meier@bbv.ch
+	name = Andreas Meier
+[alias]
+         st = status
+         di = diff
+         co = checkout
+         ci = commit
+[pager]
+         diff = true
+[color]
+         status = auto
+         diff = auto
+[core]
+	pager = less -+F
