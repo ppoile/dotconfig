@@ -10,3 +10,5 @@
          diff = auto
 [core]
 	pager = less -+F
+[push]
+	default = simple
