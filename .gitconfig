@@ -1,6 +1,3 @@
-[user]
-	email = andreas.meier@bbv.ch
-	name = Andreas Meier
 [alias]
          st = status
          di = diff
