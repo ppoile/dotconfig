@@ -113,3 +113,4 @@ if ! shopt -oq posix; then
 fi
 
 LESS="--IGNORE-CASE"; export LESS
+eval "$(lesspipe)"
