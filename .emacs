@@ -64,8 +64,6 @@
 ;(global-set-key [27 right] 'windmove-right)
 ;(global-set-key [27 left] 'windmove-left)
 
-(iswitchb-mode 1) ; switching between buffers using substrings
-
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ; cscope settings
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
