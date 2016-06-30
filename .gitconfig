@@ -9,6 +9,7 @@
          status = auto
          diff = auto
 [core]
+	editor = emacs --no-window-system
 	pager = less -+F
 [push]
 	default = simple
