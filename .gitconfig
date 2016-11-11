@@ -13,3 +13,5 @@
 	pager = less -+F
 [push]
 	default = simple
+[tig]
+	vertical-split = false
