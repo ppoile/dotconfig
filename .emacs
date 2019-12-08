@@ -43,6 +43,8 @@
 (setq-default c-basic-offset 2)
 (setq-default indent-tabs-mode nil)
 (setq inhibit-startup-message t)
+(setq js-indent-level 2)
+(add-to-list 'auto-mode-alist '("\\.ts\\'" . js-mode))
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ; highlight  brackets
