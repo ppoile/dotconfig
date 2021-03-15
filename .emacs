@@ -45,6 +45,7 @@
 (setq inhibit-startup-message t)
 (setq js-indent-level 2)
 (add-to-list 'auto-mode-alist '("\\.ts\\'" . js-mode))
+(setq visible-bell 1)
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ; highlight  brackets
